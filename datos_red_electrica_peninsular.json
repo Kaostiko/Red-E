@@ -1,0 +1,170 @@
+{
+    "data": {
+        "type": "Evoluci\u00f3n de la generaci\u00f3n renovable/no renovable",
+        "id": "gen2",
+        "attributes": {
+            "title": "Evoluci\u00f3n de la generaci\u00f3n renovable/no renovable",
+            "last-update": "2023-12-13T13:09:48.000+01:00",
+            "description": null
+        },
+        "meta": {
+            "cache-control": {
+                "cache": "MISS"
+            }
+        }
+    },
+    "included": [
+        {
+            "type": "Renovable",
+            "id": "10299",
+            "groupId": null,
+            "attributes": {
+                "title": "Renovable",
+                "description": "Energ\u00eda renovable: incluye hidr\u00e1ulica, hidroe\u00f3lica, e\u00f3lica, solar fotovoltaica, solar t\u00e9rmica, otras renovables y residuos renovables.",
+                "color": "#92d050",
+                "type": "Renovable",
+                "magnitude": null,
+                "composite": false,
+                "last-update": "2023-12-13T13:09:48.000+01:00",
+                "values": [
+                    {
+                        "value": 13541966.835,
+                        "percentage": 0.5676067604077242,
+                        "datetime": "2023-01-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 9899867.9255,
+                        "percentage": 0.45533005313522595,
+                        "datetime": "2023-02-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 12623128.455,
+                        "percentage": 0.5262476132496147,
+                        "datetime": "2023-03-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 11168685.127,
+                        "percentage": 0.5203555586873456,
+                        "datetime": "2023-04-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 11600013.321,
+                        "percentage": 0.5392249948276134,
+                        "datetime": "2023-05-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 9787238.249,
+                        "percentage": 0.459839502662195,
+                        "datetime": "2023-06-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 10890125.5725,
+                        "percentage": 0.4605125175799224,
+                        "datetime": "2023-07-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 10828217.0275,
+                        "percentage": 0.46018800756626604,
+                        "datetime": "2023-08-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 8648920.129,
+                        "percentage": 0.4166546039452305,
+                        "datetime": "2023-09-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 10404982.5535,
+                        "percentage": 0.49829831534390445,
+                        "datetime": "2023-10-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 12854069.407,
+                        "percentage": 0.5956483195539863,
+                        "datetime": "2023-11-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 12073799.615,
+                        "percentage": 0.5351211593852884,
+                        "datetime": "2023-12-01T00:00:00.000+01:00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "No renovable",
+            "id": "10298",
+            "groupId": null,
+            "attributes": {
+                "title": "No renovable",
+                "description": null,
+                "color": "#666666",
+                "type": "No renovable",
+                "magnitude": null,
+                "composite": false,
+                "last-update": "2023-12-13T13:09:48.000+01:00",
+                "values": [
+                    {
+                        "value": 10316041.525,
+                        "percentage": 0.4323932395922759,
+                        "datetime": "2023-01-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 11842311.9665,
+                        "percentage": 0.5446699468647741,
+                        "datetime": "2023-02-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 11363922.768,
+                        "percentage": 0.4737523867503854,
+                        "datetime": "2023-03-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 10294879.431,
+                        "percentage": 0.47964444131265443,
+                        "datetime": "2023-04-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 9912367.285,
+                        "percentage": 0.4607750051723867,
+                        "datetime": "2023-05-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 11496792.793,
+                        "percentage": 0.540160497337805,
+                        "datetime": "2023-06-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 12757712.7745,
+                        "percentage": 0.5394874824200776,
+                        "datetime": "2023-07-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 12701768.2165,
+                        "percentage": 0.539811992433734,
+                        "datetime": "2023-08-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 12109089.136,
+                        "percentage": 0.5833453960547695,
+                        "datetime": "2023-09-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 10476048.4135,
+                        "percentage": 0.5017016846560955,
+                        "datetime": "2023-10-01T00:00:00.000+02:00"
+                    },
+                    {
+                        "value": 8725894.785,
+                        "percentage": 0.40435168044601355,
+                        "datetime": "2023-11-01T00:00:00.000+01:00"
+                    },
+                    {
+                        "value": 10488940.436,
+                        "percentage": 0.4648788406147117,
+                        "datetime": "2023-12-01T00:00:00.000+01:00"
+                    }
+                ]
+            }
+        }
+    ]
+}
